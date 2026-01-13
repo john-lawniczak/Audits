@@ -7,16 +7,17 @@ My public security audits, reviews, and contributions.
 
 | Issues Found | High | Medium | Low | QA | Earnings |
 | :--------: | :--------: | :--------: | :--------: | :--------: |:--------: |
-|   | 3 | 2 |    | 4 | $363.51 |
+|   | 4 | 6 |    | 7 | $2,734.52 |
 
 -----
 
 # 2025
 
-| Date | Platform | Contest | Attribution | Visibility | High | Medium | Low | QA | Earnings |
-| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| 2025-04| Cantina | [Mighty Contracts](https://cantina.xyz/code/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/overview/leaderboard) |  |  | 2 | 1 |  |  | $314 |
-| 2025-05|  | alchemix-v3 |  |  |  |  |  |  | $146 |
+| Date | Platform | Contest | Placement | Attribution | Visibility | High | Medium | Low | QA | Earnings |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| 2025-02| CodeHawks | [Core Contracts - Regnum Aurum Acquisition Corp](https://codehawks.cyfrin.io/c/2025-02-raac/results) | 2 | Personal | public | 1 | 3 |  | 3 | $2,225.01 |
+| 2025-04| Cantina | [Mighty Contracts](https://cantina.xyz/code/616d8bb4-16ce-4ca9-9ce9-5b99d6e146ef/overview/leaderboard) | 21 | Personal | public | 2 | 1 |  |  | $314 |
+| 2025-05| Cantina | [Alchemix-v3](https://cantina.xyz/code/e68909e6-3491-4a94-a707-ecf0c89cf72a/overview/leaderboard) | 45 | Personal | public |  | 1 |  |  | $146 |
 
 -----
 
