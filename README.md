@@ -7,7 +7,7 @@ My public security audits, reviews, and contributions.
 
 | Issues Found | High | Medium | Low | QA | Public Earnings |
 | :--------: | :--------: | :--------: | :--------: | :--------: |:--------: |
-| 42 | 7 | 15 | 11 | 9 | $32,765.07 |
+| 46 | 7 | 15 | 11 | 13 | $33,500.07 |
 
 -----
 
@@ -36,6 +36,7 @@ My public security audits, reviews, and contributions.
 | 2025-10| Code4rena | [Reflector V3](https://code4rena.com/audits/2025-10-reflector-v3) |  | Almanax | public | 1 |  |  |  |  |
 | 2025-10| Sherlock | [Index Order Book Fun](https://audits.sherlock.xyz/contests/1197) | 15 | Almanax  | public |  | 1 |  |  |  |
 | 2025-11| Sherlock | [stNXM by EaseDeFi](https://audits.sherlock.xyz/contests/1203) | 25 | Almanax | public |  | 1 |  |  | $40.64 |
+| 2025-11| Immunefi | [Attackathon – XRPL Lending Protocol](https://immunefi.com/audit-competition/xrpl-ripple-attackathon/) | 27 | Almanax | public |  |  |  | 4 | $735 |
 
 -----
 
