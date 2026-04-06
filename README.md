@@ -7,7 +7,15 @@ My public security audits, reviews, and contributions.
 
 | Issues Found | High | Medium | Low | QA | Public Earnings |
 | :--------: | :--------: | :--------: | :--------: | :--------: |:--------: |
-| 46 | 7 | 15 | 11 | 13 | $33,500.07 |
+| 47 | 8 | 15 | 11 | 13 | $33,500.07 |
+
+-----
+
+# 2026
+
+| Date | Platform | Contest | Placement | Attribution | Visibility | High | Medium | Low | QA | Earnings |
+| :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| 2026-03| Sherlock | [Current Finance](https://audits.sherlock.xyz/contests/1256) |  | Personal | public | 1 |  |  |  |  |
 
 -----
 
