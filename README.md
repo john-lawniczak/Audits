@@ -7,7 +7,7 @@ My public security audits, reviews, and contributions.
 
 | Issues Found | High | Medium | Low | QA | Public Earnings |
 | :--------: | :--------: | :--------: | :--------: | :--------: |:--------: |
-| 48 | 8 | 15 | 12 | 13 | $33,500.07 |
+| 49 | 8 | 16 | 12 | 13 | $33,694.16 |
 
 -----
 
@@ -16,6 +16,7 @@ My public security audits, reviews, and contributions.
 | Date | Platform | Contest | Placement | Attribution | Visibility | High | Medium | Low | QA | Earnings |
 | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
 | 2026-03| Sherlock | [Current Finance](https://audits.sherlock.xyz/contests/1256) |  | Personal | public | 1 |  | 1 |  |  |
+| 2026-01| Code4rena | Olas | 44 | JohnLaw | public |  | 1 |  |  | $194.09 |
 
 -----
 
